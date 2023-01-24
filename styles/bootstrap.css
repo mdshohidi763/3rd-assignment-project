@@ -7319,11 +7319,11 @@ textarea.form-control-lg {
 }
 
 .text-secondary {
-  color: #707070 !important;
+  color: #707070!important;
 }
 
 .text-success {
-  color: #198754 !important;
+  color: #707070!important;
 }
 
 .text-info {
@@ -7375,7 +7375,7 @@ textarea.form-control-lg {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #6c757d  !important;
 }
 
 .bg-success {

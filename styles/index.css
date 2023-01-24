@@ -1,8 +1,8 @@
 .bg{
     background-image: url('../images/banner.png')
-    height: 100vh;
-    position: relative;
+    height: 650px;
+    /* position: relative;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
